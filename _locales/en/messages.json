@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Krebsgold",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "With this plugin you support the krebs and your favorite creators",
+    "description": "The description of the application"
+  },
+  "shortName": {
+    "message": "Krebsgold",
+    "description": "The name of the application"
+  }
+}
