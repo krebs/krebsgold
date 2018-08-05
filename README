@@ -1,0 +1,8 @@
+Fork of https://addons.mozilla.org/de/firefox/addon/influencer-amazon-affiliate/
+
+Libraries:
+* pickadate 3.5.6
+* fontawesome 4.7.0
+* Fians Waves 0.6.0
+* materializecss 0.97.8
+* jquery 3.3.1
